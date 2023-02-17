@@ -1,0 +1,66 @@
+*
+{
+box-sizing: border-box;
+    
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(wallpaperbetter.com_1920x1080.jpg);
+}
+
+
+.logo
+{
+    position: relative;
+width: 250px;
+height: 250px;
+background: rgba(234, 228, 228, 0.1);
+border-radius: 100%;
+display: flex;
+justify-content: center;
+align-items: center ;
+}
+
+.TxtLogo
+{
+font-family: 'Hundrake', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 155px;
+
+color: #FFF5F5;
+}
+
+.TDP
+{
+    color:white;
+    font-family: 'EmkaSansCondensed', sans-serif;
+                                                
+                                                
+}
+
+.LogoRedes
+{
+    margin: 5px;
+}
+
+.LogoRedes:hover
+{
+    transform: scale(1.1);
+    transition: .3s;    
+}
+
+a
+{
+    text-decoration: none;
+}
+
+@media (max-width: 800px) {
+
+
+    
+}
